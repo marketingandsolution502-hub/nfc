@@ -1,2 +1,0 @@
-# nfc
-prueba
